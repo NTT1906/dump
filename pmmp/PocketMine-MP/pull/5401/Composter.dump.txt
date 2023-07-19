@@ -1,3 +1,5 @@
+@From IDA's string view: 
+
 Name	Address	Public
 _Target_type(void)	00000001402FFFE0	
 ActorGoalDefinition<WorkComposterDefinition,WorkComposterGoal>::_initialize(WorkComposterDefinition const &,EntityRegistry &,EntityContext &)	000000014030B800	
